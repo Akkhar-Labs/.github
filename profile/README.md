@@ -1,25 +1,34 @@
-# Akkhar | অক্ষর 🧶
+# Akkhar-Labs | অক্ষর 🧶
 
-মানুষের চিন্তার প্রতিফলন এবং যন্ত্রের নির্ভুল কার্যের মাঝে একটি স্বয়ংসম্পূর্ণ সেতুবন্ধন তৈরির লক্ষ্যেই 'অক্ষর'-এর পথচলা। বর্তমান বিশ্বের ইংরেজি-নির্ভর লিগ্যাসি সিস্টেমের সীমাবদ্ধতা কাটিয়ে একটি সম্পূর্ণ স্বাধীন, নেটিভ এবং উচ্চ-ক্ষমতাসম্পন্ন দেশীয় কম্পিউটিং পরিকাঠামো গড়ে তোলার প্রচেষ্টায় এই সংস্থাটি নিবেদিত।
+**Architecting the bridge between human thought and machine execution.**
 
-### 🏛️ মৌলিক পরিকাঠামোসমূহ
-
-*   **মাতৃকা (Matrika)**: সম্পূর্ণ স্বাধীন ও নেটিভ অপারেটিং সিস্টেম (OS), যা হার্ডওয়্যার এবং সফটওয়্যারের প্রতিটি স্তরে বাংলা লজিকের সার্বভৌমত্ব নিশ্চিত করে।
-*   **কথা (Kotha)**: একটি কথোপকথনমূলক মৌলিক প্রোগ্রামিং ভাষা, যা কোনো মধ্যবর্তী অনুবাদক বা অ্যাবস্ট্রাকশন ব্যতিরেকেই সরাসরি প্রসেসরের নির্দেশিকা (Instruction Set)-এর সাথে সংযোগ স্থাপন করে।
-*   **নির্দেশিকা (Nirdesh)**: সিস্টেমের মূল আর্কিটেকচার বা ISA (Instruction Set Architecture), যেখানে বাংলা পরিভাষার মাধ্যমে প্রসেসরের প্রতিটি ওকোড (Opcode) ও মেমোরি ব্যবস্থাপনা সুনির্দিষ্ট করা হয়েছে।
-
-### ⚙️ মূল দর্শন
-
-প্রকৌশলবিদ্যার গূঢ় স্তরগুলোতে ভাষার জটিলতা নিরসন করে 'কঠোর বিচ্ছিন্নতা' (Strict Isolation) এবং 'নির্ধারিত যুক্তি' (Deterministic Logic)-এর প্রয়োগ ঘটানোই এই সংস্থার প্রধান আদর্শ। হার্ডওয়্যার এবং সফটওয়্যারের মাঝে একটি অবিচ্ছেদ্য বুনন তৈরি করে প্রযুক্তির মৌলিক স্তরে বাংলা ভাষার আধিপত্য প্রতিষ্ঠা করাই আমাদের চূড়ান্ত লক্ষ্য।
-
-### 👥 পরিচালনা ও প্রকৌশল দল
-
-'অক্ষর' ল্যাবসের মূল গবেষণা ও উন্নয়নের নেপথ্যে কাজ করছেন:
-
-1.  **রাহাত হাসান** – সফটওয়্যার ইঞ্জিনিয়ার (System Architect & Creator)
-2.  **সান** – সফটওয়্যার ইঞ্জিনিয়ার (Software Engineering)
-3.  **রাহি হাসান** – হার্ডওয়্যার ইঞ্জিনিয়ার (Hardware Engineering)
-4.  **আবু হুরায়রা** – হার্ডওয়্যার ইঞ্জিনিয়ার (Hardware Engineering)
+Akkhar-Labs is an independent open-source research and engineering organization dedicated to dismantling the legacy of English-centric computing. Our mission is to build a completely sovereign, native, and high-performance computing ecosystem from the ground up—rooted in the logic and syntax of the Bengali language.
 
 ---
-*প্রযুক্তির উৎকর্ষে বাংলাদেশের মৌলিক অংশগ্রহণ নিশ্চিত করার একটি সম্মিলিত প্রয়াস।*
+
+## 🏛️ The Sovereign Stack
+
+*   **Matrika (মাতৃকা)**: A native Operating System (OS) designed for total digital sovereignty. It ensures that Bengali logic governs every layer of hardware and software interaction.
+*   **BAPS (বাপস)**: The heart of our system. *Bangladesher Prothom Songjogkari* (BAPS) is the first native kernel designed to facilitate the seamless connection between the Akkhar-Hardware and Software layers.
+*   **Kotha (কথা)**: A revolutionary conversational programming language. Unlike traditional languages, **কথা** allows developers to communicate instructions through natural Bengali sentences, compiling directly to binary without intermediate translation layers.
+*   **Nirdesh (নির্দেশিকা)**: Our custom **Jontro-Vidhan (যন্ত্র-বিধান)** or Instruction Set Architecture (ISA). It provides the fundamental blueprint that maps Bengali logic directly to high-velocity machine opcodes.
+
+---
+
+## ⚙️ Core Philosophy
+
+We believe in **Strict Isolation** and **Deterministic Logic**. By moving away from English-dependent legacy systems, we are creating a "Clean-Slate" architecture. Our tools operate within defined barriers, ensuring that machine automation and human creativity coexist in a perfect **Boyon (বয়ন)**—a weaving of bits and thoughts.
+
+Our goal is to reach a level of performance where a 6,500+ line specification can be synchronized in under a millisecond, proving that a native Bengali stack is not just a dream, but a high-performance reality.
+
+---
+
+## 👥 Engineering Team
+
+Akkhar-Labs is driven by a core vision to place Bangladesh on the global map of systems engineering.
+
+1.  **Rahat Hasan** – System Architect & Creator
+2.  **Umme Salma** – Software Engineer
+
+---
+*"Silicon Valley will respect Bangladesh one day, Insha Allah."*
