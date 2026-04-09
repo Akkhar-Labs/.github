@@ -28,7 +28,7 @@ Our goal is to reach a level of performance where a 6,500+ line specification ca
 Akkhar-Labs is driven by a core vision to place Bangladesh on the global map of systems engineering.
 
 1.  **Rahat Hasan** – System Architect & Creator
-2.  **Umme Salma** – Software Engineer
+2.  **Abu Huraira** – Hardware Engineer
 
 ---
 *"Silicon Valley will respect Bangladesh one day, Insha Allah."*
